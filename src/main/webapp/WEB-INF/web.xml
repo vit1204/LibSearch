@@ -1,0 +1,33 @@
+<!--<?xml version="1.0" encoding="UTF-8"?>-->
+<!--<web-app xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="https://jakarta.ee/xml/ns/jakartaee" xsi:schemaLocation="https://jakarta.ee/xml/ns/jakartaee https://jakarta.ee/xml/ns/jakartaee/web-app_6_0.xsd" version="6.0">-->
+
+<!--    <servlet>-->
+<!--        <description></description>-->
+<!--        <display-name>GetAndSetData</display-name>-->
+<!--        <servlet-name>GetAndSetData</servlet-name>-->
+<!--        <servlet-class>controller.GetAndSetData</servlet-class>-->
+<!--    </servlet>-->
+<!--    <servlet-mapping>-->
+<!--        <servlet-name>GetAndSetData</servlet-name>-->
+<!--        <url-pattern>/GetAndSetData</url-pattern>-->
+<!--    </servlet-mapping>-->
+<!--    <error-page>-->
+<!--        <error-code>404</error-code>-->
+<!--        <location>/status404.jsp</location>-->
+<!--    </error-page>-->
+
+<!--    <error-page>-->
+<!--        <error-code>500</error-code>-->
+<!--        <location>/status500.jsp</location>-->
+<!--    </error-page>-->
+<!--    <error-page>-->
+<!--        <error-code>405</error-code>-->
+<!--        <location>/status405.jsp</location>-->
+<!--    </error-page>-->
+<!--    <display-name>GetForm</display-name>-->
+<!--    <welcome-file-list>-->
+<!--        <welcome-file>index.jsp</welcome-file>-->
+<!--    </welcome-file-list>-->
+
+
+<!--</web-app>-->
